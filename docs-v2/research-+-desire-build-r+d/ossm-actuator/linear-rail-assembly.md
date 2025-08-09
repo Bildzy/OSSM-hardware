@@ -51,6 +51,7 @@ These part names are used in the instructions below.
     {% hint style="success" %}
     To help feed the belt through, fold the left end on itself so the flat sides  are touching and hold it for a few seconds. Then let go and feed it through.
     {% endhint %}
+
     <div data-full-width="false"><figure><img src="../../../.gitbook/assets/rear-tensioner-belt-path.svg" alt="" width="375"><figcaption></figcaption></figure></div>
 
     1. If you've done this right the belt should look like the purple line in the image above and the teeth should be facing each other.
@@ -100,11 +101,11 @@ Over-tightening this bolt will push the rail out of the rear tensioner. You will
    1. Slide the end effector onto the linear rail flat side first.
    2. Line up the holes in the end effector with the holes in the linear rail.
 
-   <figure><img src="../../../.gitbook/assets/end-effector.svg" alt="" width="375"><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/end-effector.svg" alt="" width="375"><figcaption></figcaption></figure>
 
-   {% hint style="info" %}
-   💡 Notice that the end effector has a flat side and a beveled side. Also note the protrusions that should line up with the linear rail's grooves.
-   {% endhint %}
+    {% hint style="info" %}
+    💡 Notice that the end effector has a flat side and a beveled side. Also note the protrusions that should line up  with the linear rail's grooves.
+    {% endhint %}
 
 1. **Insert bolts**
    1. Insert 2 end effector bolts (M3x8mm) into the top holes of the end effector.
