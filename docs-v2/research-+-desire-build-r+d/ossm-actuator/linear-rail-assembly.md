@@ -97,7 +97,7 @@ Over-tightening this bolt will push the rail out of the rear tensioner. You will
    1. Hold the linear rail so the bearing block is facing upwards.
    2. Move the bearing block to the left side (to prevent it from accidentally sliding off).
    3. Remove the end stop from the right side of the linear rail.
-2. **Attach the End Effector**
+1. **Attach the End Effector**
    1. Slide the end effector onto the linear rail flat side first.
    2. Line up the holes in the end effector with the holes in the linear rail.
 
@@ -109,12 +109,12 @@ Over-tightening this bolt will push the rail out of the rear tensioner. You will
 
 1. **Insert bolts**
    1. Insert 2 end effector bolts (M3x8mm) into the top holes of the end effector.
-2. **Flip the Linear Rail Assembly**
+1. **Flip the Linear Rail Assembly**
    1. Hold the bolts in place with 2 fingers.
    2. Carefully flip the entire linear rail assembly over, to expose the bottom of the end effector.
-3. **Insert nuts**
+1. **Insert nuts**
    1. Insert 2 end effector nuts (M3) into the bottom holes of the end effector.
-4. **Flip Back and Tighten**
+1. **Flip Back and Tighten**
    1. While holding the nuts in place with two fingers, flip the assembly back over so the bolts are facing up again.
    2. Tighten both bolts to _Firm_ using a 2.5mm hex bit/key.
 
