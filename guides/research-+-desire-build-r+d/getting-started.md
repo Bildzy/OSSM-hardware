@@ -65,7 +65,9 @@ The use of powered screw drivers is not recommended as it can cause damage to pa
 
 ### 👷👷🏻‍♀️ Safety & Workspace prep <a href="#safety-workspace-prep" id="safety-workspace-prep"></a>
 
-///TODO copy pasta from existing docs
+<mark style="color:red;">TODO copy pasta from legacy assembly docs</mark>
+
+<mark style="color:red;">TODO ADD reference to hazards doc</mark>
 
 #### **Tightness levels**
 

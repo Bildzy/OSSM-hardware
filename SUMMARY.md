@@ -51,12 +51,12 @@
     * [PitClamp Mini Reinforced Standard](<Printed Parts/OSSM Mods/PitClamp Mini Reinforced Standard/README.md>)
     * [Threaded Belt Clamp V2](<Printed Parts/OSSM Mods/Threaded Belt Clamp V2/README.md>)
 
-## Docs V2
+## Guides
 
-* [Research + Desire Build (R+D)](docs-v2/research-+-desire-build-r+d/README.md)
-  * [Getting Started](docs-v2/research-+-desire-build-r+d/getting-started.md)
-  * [OSSM Mount](docs-v2/research-+-desire-build-r+d/ossm-mount.md)
-  * [OSSM Actuator](docs-v2/research-+-desire-build-r+d/ossm-actuator/README.md)
-    * [Linear Rail Assembly](docs-v2/research-+-desire-build-r+d/ossm-actuator/linear-rail-assembly.md)
-* [Custom Build](docs-v2/custom-build.md)
-* [Parts](docs-v2/parts.md)
+* [Research + Desire Build (Beginners)](guides/research-+-desire-build-r+d/README.md)
+  * [Getting Started](guides/research-+-desire-build-r+d/getting-started.md)
+  * [OSSM Mount](guides/research-+-desire-build-r+d/ossm-mount.md)
+  * [OSSM Actuator](guides/research-+-desire-build-r+d/ossm-actuator/README.md)
+    * [Linear Rail Assembly](guides/research-+-desire-build-r+d/ossm-actuator/linear-rail-assembly.md)
+* [Custom Build](guides/custom-build.md)
+* [Parts](guides/parts.md)
