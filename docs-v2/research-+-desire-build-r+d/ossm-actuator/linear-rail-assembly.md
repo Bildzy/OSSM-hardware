@@ -29,7 +29,7 @@ These part names are used in the instructions below.
 1. **End stop inspection**
    1. Inspect the linear rail and make sure end stops are in place.
    2. If the end stops are not installed, place a rubber band or a bolt with a nut (nut on top) at each end of the rail to prevent the bearing block from sliding off.
-   
+
    {% hint style="danger" %}
    If end stops are not in place, the bearing block can slide off the rail, and bearings will scatter **EVERYWHERE**.
    {% endhint %}
@@ -46,22 +46,21 @@ These part names are used in the instructions below.
 1. **Orient parts**
    1. Hold the rear tensioner with the belt slot to the right and with the belt teeth facing up.
 2.  **Route the Belt**
-
     1. Feed the belt through the rear tensioner along the path indicated in red in the image below.
 
+    {% hint style="success" %}
+    To help feed the belt through, fold the left end on itself so the flat sides  are touching and hold it for a few seconds. Then let go and feed it through.
+    {% endhint %}
     <div data-full-width="false"><figure><img src="../../../.gitbook/assets/rear-tensioner-belt-path.svg" alt="" width="375"><figcaption></figcaption></figure></div>
 
     1. If you've done this right the belt should look like the purple line in the image above and the teeth should be facing each other.
 
-{% hint style="success" %}
-To help feed the belt through, fold the left end on itself so the flat sides are touching and hold it for a few seconds. Then let go and feed it through.
-{% endhint %}
 
 1. **Adjust the Belt**
    1. Adjust the short end of the belt so that 1-2 cm (or 4-5 teeth) exit the rear tensioner.
    2. Pull the long end to remove any slack.
 
-***
+
 
 ### Step 3: Add rear tensioner to rail
 
@@ -70,12 +69,11 @@ To help feed the belt through, fold the left end on itself so the flat sides are
    2. Move the bearing block to the right side (to prevent it from accidentally sliding off).
    3. Remove the end stop from the left side of the linear rail.
 
-{% hint style="info" %}
-At this point the linear rail is non-directional. Meaning it doesn't matter which end you decide is "left" or "right". But once you attach the rear tensioner that end will become the "left" or "back" or the linear rail.
-{% endhint %}
+   {% hint style="info" %}
+   At this point the linear rail is non-directional. Meaning it doesn't matter which end you decide is "left" or "right". But once you attach the rear tensioner that end will become the "left" or "back" or the linear rail.
+   {% endhint %}
 
 1.  **Attach the Rear Tensioner**
-
     1. Slide the left end of the linear rail into the right side of the rear tensioner ensuring the belt is beneath the linear rail.
 
     <figure><img src="../../../.gitbook/assets/rear-tensionser-to-rail.svg" alt="" width="375"><figcaption></figcaption></figure>
@@ -102,11 +100,11 @@ Over-tightening this bolt will push the rail out of the rear tensioner. You will
    1. Slide the end effector onto the linear rail flat side first.
    2. Line up the holes in the end effector with the holes in the linear rail.
 
-<figure><img src="../../../.gitbook/assets/end-effector.svg" alt="" width="375"><figcaption></figcaption></figure>
+   <figure><img src="../../../.gitbook/assets/end-effector.svg" alt="" width="375"><figcaption></figcaption></figure>
 
-{% hint style="info" %}
-💡 Notice that the end effector has a flat side and a beveled side. Also note the protrusions that should line up with the linear rail's grooves.
-{% endhint %}
+   {% hint style="info" %}
+   💡 Notice that the end effector has a flat side and a beveled side. Also note the protrusions that should line up with the linear rail's grooves.
+   {% endhint %}
 
 1. **Insert bolts**
    1. Insert 2 end effector bolts (M3x8mm) into the top holes of the end effector.
