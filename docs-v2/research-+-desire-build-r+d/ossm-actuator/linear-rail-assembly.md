@@ -29,12 +29,15 @@ These part names are used in the instructions below.
 1. **End stop inspection**
    1. Inspect the linear rail and make sure end stops are in place.
    2. If the end stops are not installed, place a rubber band or a bolt with a nut (nut on top) at each end of the rail to prevent the bearing block from sliding off.
+   
+   {% hint style="danger" %}
+   If end stops are not in place, the bearing block can slide off the rail, and bearings will scatter **EVERYWHERE**.
+   {% endhint %}
+
    3. Slide the bearing block back and forth on the rail to ensure it's sliding freely.
    4. <mark style="color:red;">TODO - figure out if we need to apply lube or grease to rail?</mark>
 
-{% hint style="danger" %}
-If end stops are not in place, the bearing block can slide off the rail, and bearings will scatter **EVERYWHERE**.
-{% endhint %}
+
 
 ***
 
