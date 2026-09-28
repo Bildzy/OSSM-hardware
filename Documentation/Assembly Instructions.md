@@ -4,7 +4,7 @@
 
 ## Open Source Sex Machine
 
-![](_images/legacy_instructions/legacy_assembly_instructions_ossm.png)
+![](../.gitbook/assets/legacy_assembly_instructions_ossm.png)
 
 Assembly Guide
 
@@ -42,8 +42,7 @@ Assembly Guide
 
 \
 \
-This is an open-source, community based project. Lots of people contribute to its success which is a huge strength for developing quickly! It also means we are not responsible for the complete safety of the design. Play risk-aware and consensually!\
-
+This is an open-source, community based project. Lots of people contribute to its success which is a huge strength for developing quickly! It also means we are not responsible for the complete safety of the design. Play risk-aware and consensually!<br>
 
 ## Parts Checklist
 
@@ -53,46 +52,44 @@ This guide is for the complete OFFICAL OSSM, however there are many modification
 
 ### Purchased Parts
 
-|                                                                                                                                                                                                |                                                                                                   |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| **Nema 23 Servo Motor – IHSV57-30-18** Most people choose the 180W model for max power. 140 and 100w are also available. Avoid the _StepperOnline_ version because of compatibility issues     | ![](_images/legacy_instructions/legacy_assembly_instructions_IHS57-30-18.jpg)                     |
-| **OSSM PCB & Remote**                                                                                                                                                                          | ![](_images/legacy_instructions/legacy_assembly_instructions_ossm_pcb_and_remote.jpg)             |
-| **GT2 Pulley – 20 Tooth, 8mm Bore, 10mm belt**                                                                                                                                                 | ![](_images/legacy_instructions/legacy_assembly_instructions_gt2_pulley.jpg)                      |
-| **GT2 Timing Belt – 10mm Width x 500mm length** Get a bulk amount of belt 500mm is a minimum for a standard build                                                                              | ![](_images/legacy_instructions/legacy_assembly_instructions_gt2_timing_belt.png)                 |
-| **Roller Bearings MR115 – 5x11x4mm (Qty:6)**                                                                                                                                                   | ![](_images/legacy_instructions/legacy_assembly_instructions_roller_bearings.jpg)                 |
-| **24v 5A fully enclosed power supply** Look for one that is certified for use in your country                                                                                                  | ![](_images/legacy_instructions/legacy_assembly_instructions_24v_fully_enclosed_power_supply.jpg) |
-| Metric Cap Screw Kit Should be about $20 USD, M5, M4, and M3 are used in the build in various lengths Most M5 cap head screws are 20/25mm long The Middle Pivot mount requires 4x m5x35 screws | ![](_images/legacy_instructions/legacy_assembly_instructions_metric_cap_screw_kit.png)            |
-|                                                                                                                                                                                                |                                                                                                   |
+|                                                                                                                                                                                                |                                                                                          |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| **Nema 23 Servo Motor – IHSV57-30-18** Most people choose the 180W model for max power. 140 and 100w are also available. Avoid the _StepperOnline_ version because of compatibility issues     | ![](../.gitbook/assets/legacy_assembly_instructions_IHS57-30-18.jpg)                     |
+| **OSSM PCB & Remote**                                                                                                                                                                          | ![](../.gitbook/assets/legacy_assembly_instructions_ossm_pcb_and_remote.jpg)             |
+| **GT2 Pulley – 20 Tooth, 8mm Bore, 10mm belt**                                                                                                                                                 | ![](../.gitbook/assets/legacy_assembly_instructions_gt2_pulley.jpg)                      |
+| **GT2 Timing Belt – 10mm Width x 500mm length** Get a bulk amount of belt 500mm is a minimum for a standard build                                                                              | ![](../.gitbook/assets/legacy_assembly_instructions_gt2_timing_belt.png)                 |
+| **Roller Bearings MR115 – 5x11x4mm (Qty:6)**                                                                                                                                                   | ![](../.gitbook/assets/legacy_assembly_instructions_roller_bearings.jpg)                 |
+| **24v 5A fully enclosed power supply** Look for one that is certified for use in your country                                                                                                  | ![](../.gitbook/assets/legacy_assembly_instructions_24v_fully_enclosed_power_supply.jpg) |
+| Metric Cap Screw Kit Should be about $20 USD, M5, M4, and M3 are used in the build in various lengths Most M5 cap head screws are 20/25mm long The Middle Pivot mount requires 4x m5x35 screws | ![](../.gitbook/assets/legacy_assembly_instructions_metric_cap_screw_kit.png)            |
+|                                                                                                                                                                                                |                                                                                          |
 
 ### Printed Parts
 
-|                                                                 |                                                                                                 |
-| :-------------------------------------------------------------: | ----------------------------------------------------------------------------------------------- |
-|                         **Body - Base**                         | ![](_images/legacy_instructions/legacy_assembly_instructions_body_base.png)                     |
-|                        **Body - Middle**                        | ![](_images/legacy_instructions/legacy_assembly_instructions_body_middle.png)                   |
-| **Body – Middle Pivot (Use instead for more mounting options)** | ![](_images/legacy_instructions/legacy_assembly_instructions_body_middle_pivot.png)             |
-|                         **Body - Cover**                        | ![](_images/legacy_instructions/legacy_assembly_instructions_body_cover.png)                    |
-|                   **Body - PCB Support Cover**                  | ![](_images/legacy_instructions/legacy_assembly_instructions_pcb_support_cover.png)             |
-|                  **Belt Clamp – Tensioner end**                 | ![](_images/legacy_instructions/legacy_assembly_instructions_belt_clamp_tension_end.png)        |
-|                       **Belt Clamp - Top**                      | ![](_images/legacy_instructions/legacy_assembly_instructions_belt_clamp_top.png)                |
-|                     **Belt Clamp - Bottom**                     | ![](_images/legacy_instructions/legacy_assembly_instructions_belt_clamp_bottom.png)             |
-|               **Toy Mount – Rail to 24mm thread**               | ![](_images/legacy_instructions/legacy_assembly_instructions_toy_mount_rail_to_24mm_thread.png) |
-|                   **Toy Mount - 24MM Jam Nut**                  | ![](_images/legacy_instructions/legacy_assembly_instructions_toy_mount_24mm_jam_nut.png)        |
-|        **Toy Mount - Vac-u-lock adapter (double double)**       | ![](_images/legacy_instructions/legacy_assembly_instructions_vac_u_lock_adapter.png)            |
-|                         **Remote Body**                         | ![](_images/legacy_instructions/legacy_assembly_instructions_remote_body.png)                   |
-|                       **Remote Top Cover**                      | ![](_images/legacy_instructions/legacy_assembly_instructions_remote_top_cover.png)              |
-|                       **Remote Knobs x 2**                      | ![](_images/legacy_instructions/legacy_assembly_instructions_remote_knobs.png)                  |
-|                                                                 |                                                                                                 |
+|                                                                 |                                                                                        |
+| :-------------------------------------------------------------: | -------------------------------------------------------------------------------------- |
+|                         **Body - Base**                         | ![](../.gitbook/assets/legacy_assembly_instructions_body_base.png)                     |
+|                        **Body - Middle**                        | ![](../.gitbook/assets/legacy_assembly_instructions_body_middle.png)                   |
+| **Body – Middle Pivot (Use instead for more mounting options)** | ![](../.gitbook/assets/legacy_assembly_instructions_body_middle_pivot.png)             |
+|                         **Body - Cover**                        | ![](../.gitbook/assets/legacy_assembly_instructions_body_cover.png)                    |
+|                   **Body - PCB Support Cover**                  | ![](../.gitbook/assets/legacy_assembly_instructions_pcb_support_cover.png)             |
+|                  **Belt Clamp – Tensioner end**                 | ![](../.gitbook/assets/legacy_assembly_instructions_belt_clamp_tension_end.png)        |
+|                       **Belt Clamp - Top**                      | ![](../.gitbook/assets/legacy_assembly_instructions_belt_clamp_top.png)                |
+|                     **Belt Clamp - Bottom**                     | ![](../.gitbook/assets/legacy_assembly_instructions_belt_clamp_bottom.png)             |
+|               **Toy Mount – Rail to 24mm thread**               | ![](../.gitbook/assets/legacy_assembly_instructions_toy_mount_rail_to_24mm_thread.png) |
+|                   **Toy Mount - 24MM Jam Nut**                  | ![](../.gitbook/assets/legacy_assembly_instructions_toy_mount_24mm_jam_nut.png)        |
+|        **Toy Mount - Vac-u-lock adapter (double double)**       | ![](../.gitbook/assets/legacy_assembly_instructions_vac_u_lock_adapter.png)            |
+|                         **Remote Body**                         | ![](../.gitbook/assets/legacy_assembly_instructions_remote_body.png)                   |
+|                       **Remote Top Cover**                      | ![](../.gitbook/assets/legacy_assembly_instructions_remote_top_cover.png)              |
+|                       **Remote Knobs x 2**                      | ![](../.gitbook/assets/legacy_assembly_instructions_remote_knobs.png)                  |
+|                                                                 |                                                                                        |
 
 \
 \
-\
-
+<br>
 
 ## Assembly Instructions
 
-\
-
+<br>
 
 ### General Assembly Comments
 
@@ -112,58 +109,52 @@ We now have a full set of videos showing the assembly process linked on the gith
 
 Attach the OSSM base plate to the motor with (2) 5x20mm cap head screws in the locations marked _M5_ and tighten with a M5 nut below the motor mounting flange. The nut is usually kept from turning by the motor body. If it spins when tightening, insert a flat head screwdriver between the nut and motor to keep it in place.
 
-![](_images/legacy_instructions/legacy_assembly_instructions_mate_base_plate_with_motor.png)
+![](../.gitbook/assets/legacy_assembly_instructions_mate_base_plate_with_motor.png)
 
 ### Build up the belt idler bearings
 
-![build\_up\_idler\_bearings](_images/legacy_instructions/legacy_assembly_instructions_build_up_idler_bearings.png)\
-
+![build\_up\_idler\_bearings](../.gitbook/assets/legacy_assembly_instructions_build_up_idler_bearings.png)<br>
 
 The idler bearing stacks are built up around 5x20mm cap head screw\
 \
 Stack three 5x11x4mm bearings on a 5x20mm cap head screw and attach to the threaded positions in the baseplate as shown above.
 
-![](_images/legacy_instructions/legacy_assembly_instructions_idler_bearings.png)
+![](../.gitbook/assets/legacy_assembly_instructions_idler_bearings.png)
 
 ### Install and Align the Pulley
 
-![install\_align\_pulley](_images/legacy_instructions/legacy_assembly_instructions_install_align_pulley.png)
+![install\_align\_pulley](../.gitbook/assets/legacy_assembly_instructions_install_align_pulley.png)
 
 * Mount the 20 tooth GT2 Pulley on the shaft of the motor
 * Make sure you line up one of the set screws with the flat on the motor!
 
-![](_images/legacy_instructions/legacy_assembly_instructions_bearing_alignment.png)\
-
+![](../.gitbook/assets/legacy_assembly_instructions_bearing_alignment.png)<br>
 
 ### Linear Rail Installation
 
 Align the pulley so that it is within the range of the bearings and the set screws that clamp it to the motor shaft are available from above the base plate
 
-![](_images/legacy_instructions/legacy_assembly_instructions_rail_install.png)
+![](../.gitbook/assets/legacy_assembly_instructions_rail_install.png)
 
 MGNRH Rail and Bearing are next. _linear rail is omitted from this view._
 
 \
-\
-
+<br>
 
 **Be careful not to separate bearing from linear rail, there is a chance of losing ball bearings when the rail and bearing are separated!**\
-\
+<br>
 
-
-![](_images/legacy_instructions/legacy_assembly_instructions_rail_install_cap_screws.png)
+![](../.gitbook/assets/legacy_assembly_instructions_rail_install_cap_screws.png)
 
 Highlighted holes for M3 cap screws. The cap screws should finish flush with surface when fully tightened.
 
 \
 \
-\
-
+<br>
 
 Attach the middle part of the OSSM body utilizing the remaining diagonal holes. The M5x20mm shown below being inserted into the correct positions.
 
-![](_images/legacy_instructions/legacy_assembly_instructions_middle_body_install.png)\
-
+![](../.gitbook/assets/legacy_assembly_instructions_middle_body_install.png)<br>
 
 ### Alternate Middle – Pivot
 
@@ -171,8 +162,7 @@ The new middle pivot design makes it easier to bolt your ossm directly onto extr
 
 Here all 4 bolts go through the motor, ossm base, and ossm middle.
 
-![](_images/legacy_instructions/legacy_assembly_instructions_middle_pivot_install.png)\
-
+![](../.gitbook/assets/legacy_assembly_instructions_middle_pivot_install.png)<br>
 
 ### Belt Placement
 
@@ -180,12 +170,11 @@ Now is time to place the belt in the iconic OSSM configuration. Using the clamp 
 Belt is shown in BLUE\
 The teeth on the belt are not shown, but should face the pulley.
 
-![](_images/legacy_instructions/legacy_assembly_instructions_belt_xray_path.png)
+![](../.gitbook/assets/legacy_assembly_instructions_belt_xray_path.png)
 
 X-Ray View of entire belt path
 
-\
-
+<br>
 
 ### Belt Tensioner
 
@@ -196,13 +185,13 @@ Then slip the assembly onto the end of the rail.
 
 Drop an M5 nut into the slot and thread in an M5x16 screw into it. Tightening this screw will push on the rail and apply more tension – be gentle here! We just want to take up the slack, it is easy to apply way too much force if you tighten this too much. Too much force can damage your motor bearings!
 
-![](_images/legacy_instructions/legacy_assembly_instructions_belt_tensioner.png)
+![](../.gitbook/assets/legacy_assembly_instructions_belt_tensioner.png)
 
 ### Wrap Belt Around Pulley
 
 Wrapping the belt around the main drive pully and past the stacks of idler pulleys will get the belt in the correct location.
 
-![](_images/legacy_instructions/legacy_assembly_instructions_belt_wrap_around_pulley.png)
+![](../.gitbook/assets/legacy_assembly_instructions_belt_wrap_around_pulley.png)
 
 ### Belt Clamp
 
@@ -211,7 +200,7 @@ Wrapping the belt around the main drive pully and past the stacks of idler pulle
 * Tighten the screw to secure the belt.
 * Trim remaining belt (if you are sure you are happy with stroke length!)
 
-![](_images/legacy_instructions/legacy_assembly_instructions_belt_clamp_closeup.png)
+![](../.gitbook/assets/legacy_assembly_instructions_belt_clamp_closeup.png)
 
 Congratulations!
 

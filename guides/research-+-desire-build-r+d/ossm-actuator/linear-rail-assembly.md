@@ -4,17 +4,27 @@
 
 💡 Add belt, rear tensioner, end effector, and front clamp to the linear rail. You want to do this first, to prevent the bearing block from sliding off accidentally.
 
-[🎬 OSSM Complete Assembly - Follow Along Guide](https://www.youtube.com/watch?v=9lVobSEw_Uw)
+[🎬 OSSM Complete Assembly - Follow Along Video Guide](https://www.youtube.com/watch?v=9lVobSEw_Uw)
 
 ***
 
-## Exploded View
+## Components & Tools
+
+### Exploded View
 
 <figure><img src="../../../.gitbook/assets/linear-rail-assembly.svg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 These part names are used in the instructions below.
 {% endhint %}
+
+### Component List
+
+<mark style="color:red;">TODO add list of components</mark>
+
+### Tools List
+
+<mark style="color:red;">TODO add list of tools</mark>
 
 ***
 
@@ -43,15 +53,12 @@ If end stops are not in place, the bearing block can slide off the rail, and bea
 
 1. **Orient parts**
    1. Hold the rear tensioner with the belt slot to the right and with the belt teeth facing up.
-2.  **Route the Belt**
+2. **Route the Belt**
+   1. Feed the belt through the rear tensioner along the path indicated in red in the image below.
+   2.  To help feed the belt through, fold the left end on itself so the flat sides are touching and hold it for a few seconds. Then let go and feed it through.
 
-    1. Feed the belt through the rear tensioner along the path indicated in red in the image below.
-
-    \{% hint style="success" %\} To help feed the belt through, fold the left end on itself so the flat sides are touching and hold it for a few seconds. Then let go and feed it through. \{% endhint %\}
-
-    <div data-full-width="false"><figure><img src="../../../.gitbook/assets/rear-tensioner-belt-path.svg" alt="" width="375"><figcaption></figcaption></figure></div>
-
-    1. If you've done this right the belt should look like the purple line in the image above and the teeth should be facing each other.
+       <div data-full-width="false"><figure><img src="../../../.gitbook/assets/rear-tensioner-belt-path.svg" alt="" width="375"><figcaption></figcaption></figure></div>
+   3. If you've done this right the belt should look like the purple line in the image above and the teeth should be facing each other.
 3. **Adjust the Belt**
    1. Adjust the short end of the belt so that 1-2 cm (or 4-5 teeth) exit the rear tensioner.
    2. Pull the long end to remove any slack.
@@ -66,16 +73,14 @@ If end stops are not in place, the bearing block can slide off the rail, and bea
     2. Move the bearing block to the right side (to prevent it from accidentally sliding off).
     3. Remove the end stop from the left side of the linear rail.
 
-    {% hint style="info" %}
-    At this point the linear rail is non-directional. Meaning it doesn't matter which end you decide is "left" or "right". But once you attach the rear tensioner that end will become the "left" or "back" or the linear rail.
-    {% endhint %}
-2.  **Attach the Rear Tensioner**
+    <div data-gb-custom-block data-tag="hint" data-style="info" class="hint hint-info"><p>At this point the linear rail is non-directional. Meaning it doesn't matter which end you decide is "left" or "right". But once you attach the rear tensioner that end will become the "left" or "back" or the linear rail.</p></div>
+2. **Attach the Rear Tensioner**
+   1.  Slide the left end of the linear rail into the right side of the rear tensioner ensuring the belt is beneath the linear rail.
 
-    1. Slide the left end of the linear rail into the right side of the rear tensioner ensuring the belt is beneath the linear rail.
 
-    <figure><img src="../../../.gitbook/assets/rear-tensionser-to-rail.svg" alt="" width="375"><figcaption></figcaption></figure>
 
-    1. Pull the long side of the belt to take up any slack that was created.
+       <figure><img src="../../../.gitbook/assets/rear-tensionser-to-rail.svg" alt="" width="375"><figcaption></figcaption></figure>
+   2. Pull the long side of the belt to take up any slack that was created.
 3. **Install brace fasteners**
    1. Place the tensioner brace nut (M3) into the hexagonal hole on the left hand side of the rear tensioner.
    2. Insert the tensioner brace bolt (M3x20mm) into hole on the opposite side and tighten to _Snug_ using a 2.5mm hex bit/key.
@@ -128,19 +133,19 @@ At this point the bearing block is now secure! You no longer have to worry about
 1. **Route belt through front clamp bottom**
    1. Hold the front clamp bottom so that channel is facing upwards.
    2. Route the belt through the top slot and out of the bottom like in the image below.
-2.  At this point you only need about 5cm of length exiting the front clamp bottom
+   3.  At this point you only need about 5cm of length exiting the front clamp bottom
 
-    <figure><img src="../../../.gitbook/assets/front-clamp-belt-path.svg" alt="" width="375"><figcaption></figcaption></figure>
-3. **Add nut to front clamp bottom**
+       <figure><img src="../../../.gitbook/assets/front-clamp-belt-path.svg" alt="" width="375"><figcaption></figcaption></figure>
+2. **Add nut to front clamp bottom**
    1. Insert the front clamp nut (M3) into the hexagonal hole on the bottom of the front clamp bottom.
-4. **Add front clamp top and bolt**
+3. **Add front clamp top and bolt**
    1. Insert the front clamp bolt (M3x20mm) bolt into the linear rail.
    2. Use the first hole to the left of the end effector.
    3.  Hold the front clamp top so it's teeth are facing away from the bottom of the linear rail and to the left.
 
        <figure><img src="../../../.gitbook/assets/front-clamp-top.svg" alt="" width="375"><figcaption></figcaption></figure>
    4. Align the hole in the front clamp top with the front clamp bolt in the linear rail and slide it on.
-5. **Mate front clamp pieces**
+4. **Mate front clamp pieces**
    1. Align the hole in the front clamp bottom with the front clamp bolt in the linear rail and slide it on.
    2. Push the front clamp bolt down until it meets the front clamp nut. Then tighten to _Snug_.
 

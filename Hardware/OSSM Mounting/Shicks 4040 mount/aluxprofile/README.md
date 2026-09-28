@@ -1,6 +1,6 @@
 # Modified 4040 parts
 
-![image](ossm.jpg)
+![image](../../../../.gitbook/assets/ossm.jpg)
 
 These parts are modified to fit the 4040 profiles you can buy at https://www.aluxprofile.com/aluminium-slot-profile-4040-black/a3757 or https://www.aluxprofile.com/aluminium-slot-profile-4040/a3619.
 

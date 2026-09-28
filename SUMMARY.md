@@ -53,10 +53,15 @@
 
 ## Guides
 
-* [Research + Desire Build (Beginners)](guides/research-+-desire-build-r+d/README.md)
+* [OSSM Beginner Build](guides/research-+-desire-build-r+d/README.md)
   * [Getting Started](guides/research-+-desire-build-r+d/getting-started.md)
   * [OSSM Mount](guides/research-+-desire-build-r+d/ossm-mount.md)
   * [OSSM Actuator](guides/research-+-desire-build-r+d/ossm-actuator/README.md)
     * [Linear Rail Assembly](guides/research-+-desire-build-r+d/ossm-actuator/linear-rail-assembly.md)
+    * [Body Bottom & Rail Assembly](guides/research-+-desire-build-r+d/ossm-actuator/body-bottom-and-rail-assembly.md)
+    * [Motor & Pulley Alignment](guides/research-+-desire-build-r+d/ossm-actuator/motor-and-pulley-alignment.md)
+    * [Middle Body (Pivot)](guides/research-+-desire-build-r+d/ossm-actuator/middle-body-pivot.md)
+    * [Final Adjustments, Checks, & Cover](guides/research-+-desire-build-r+d/ossm-actuator/final-adjustments-checks-and-cover.md)
+    * [Template](guides/research-+-desire-build-r+d/ossm-actuator/template.md)
 * [Custom Build](guides/custom-build.md)
 * [Parts](guides/parts.md)

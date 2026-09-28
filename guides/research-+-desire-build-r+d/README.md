@@ -1,16 +1,16 @@
-# Research + Desire Build (R+D)
+# OSSM Beginner Build
 
-Welcome to the **Research + Desire Build** documentation for the OSSM project. This is the recommended starting point for new users who want to build a fully supported OSSM using official R+D components.
+Welcome to the **OSSM Beginner Build** documentation for the OSSM project. This is the recommended starting point for new users who want to build a fully supported OSSM using official Research + Desire (R+D) components.
 
 {% hint style="info" %}
-🚧 This section is a work in progress and should be considered a living document that will evolve along with changes to the Research + Desire Build.
+🚧 This section is a work in progress and should be considered a living document that will evolve along with changes to the OSSM Build.
 {% endhint %}
 
-### 💡 What is the Research + Desire Build? <a href="#what-is-the-research-desire-build" id="what-is-the-research-desire-build"></a>
+### 💡 What is the Beginner Build? <a href="#what-is-the-research-desire-build" id="what-is-the-research-desire-build"></a>
 
-The **Research + Desire Build** is the fastest way to get started. It’s a pre-defined configuration of OSSM that:
+The **OSSM Beginner Build** is the fastest way to get started. It’s a pre-defined configuration of OSSM that:
 
-* Uses official ready-to-buy parts from R+D
+* Uses official ready-to-buy parts from Research + Desire
 * Is considered the stable version of OSSM
 * Changes to its parts require substantial vetting by R+D staff and the community
 
@@ -36,4 +36,4 @@ This documentation is ideal if you:
 
 We're actively revising and improving this section. If something’s missing or confusing, please open an issue on GitHub.
 
-Thanks for helping make OSSM better for everyone!\
+Thanks for helping make OSSM better for everyone!<br>
